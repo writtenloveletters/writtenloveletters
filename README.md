@@ -1,5 +1,6 @@
 
-<img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/90813b71-981b-4f5b-8774-470797197bac" />
+<img width="1200" height="699" alt="image" src="https://github.com/user-attachments/assets/ec7e8b6b-cec5-480f-ad5a-5679ec5d2762" />
+しんぞうささげよ.
 
 <!--
 **writtenloveletters/writtenloveletters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
