@@ -1,6 +1,6 @@
 
 <img width="1200" height="699" alt="image" src="https://github.com/user-attachments/assets/ec7e8b6b-cec5-480f-ad5a-5679ec5d2762" />
-しんぞうささげよ.
+心臓を捧げよ。
 
 <!--
 **writtenloveletters/writtenloveletters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
