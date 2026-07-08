@@ -1,5 +1,6 @@
 
-<img width="736" height="417" alt="image" src="https://github.com/user-attachments/assets/58e3bd2d-5ebf-4cc5-a3a4-643bc9d22d6d" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/55bbbe4b-ab5a-401a-a0bd-c07d51c892d4" />
+
 
 心臓を捧げよ。
 
