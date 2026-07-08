@@ -1,8 +1,9 @@
 
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/55bbbe4b-ab5a-401a-a0bd-c07d51c892d4" />
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/7ca1e5f0-70f2-4568-961b-2d8df4e150dd" />
 
 
-心臓を捧げよ。
+
+イッテラッシャイ、Eren.
 
 <!--
 **writtenloveletters/writtenloveletters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
