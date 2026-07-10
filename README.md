@@ -1,9 +1,9 @@
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/7ca1e5f0-70f2-4568-961b-2d8df4e150dd" />
+<p align="center"><img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/7ca1e5f0-70f2-4568-961b-2d8df4e150dd" />
 
 
 
-イッテラッシャイ、Eren.
+<p align="center">イッテラッシャイ、Eren.
 
 <!--
 **writtenloveletters/writtenloveletters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
