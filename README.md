@@ -1,6 +1,6 @@
 
 <p align="center">
-<p align="center"><iframe src="https://assets.pinterest.com/ext/embed.html?id=98657048074053508" height="247" width="345" frameborder="0" scrolling="no" ></iframe>
+<p align="center"><img width="500" height="213" alt="image" src="https://github.com/user-attachments/assets/80e8d244-a1d2-4b9b-8801-8d04373a76f9" />
 
 
 
