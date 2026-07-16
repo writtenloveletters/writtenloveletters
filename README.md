@@ -1,6 +1,6 @@
 
-<p align="center">イッテラッシャイ、Eren.
-<p align="center"><img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/7ca1e5f0-70f2-4568-961b-2d8df4e150dd" />
+<p align="center">
+<p align="center"><iframe src="https://assets.pinterest.com/ext/embed.html?id=98657048074053508" height="247" width="345" frameborder="0" scrolling="no" ></iframe>
 
 
 
